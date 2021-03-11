@@ -4,3 +4,7 @@ image:
 tasks:
   - init: npm install && npm run build
     command: npm run start
+
+vscode:
+  extensions:
+    - steoates.autoimport@1.5.3:Tr3qYUEEq73wrKwCWaYivQ==
